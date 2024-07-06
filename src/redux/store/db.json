@@ -1,0 +1,700 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "category": "geography"
+    },
+    {
+      "id": 2,
+      "category": "history"
+    },
+    {
+      "id": 3,
+      "category": "physics"
+    },
+    {
+      "id": 4,
+      "category": "sport"
+    },
+    {
+      "id": 1718740624390941,
+      "category": "Test"
+    }
+  ],
+  "questions": [
+    {
+      "id": 101,
+      "quizId": 1,
+      "questionText": "What is the capital of France?"
+    },
+    {
+      "id": 102,
+      "quizId": 1,
+      "questionText": "Which continent is Brazil located in?"
+    },
+    {
+      "id": 103,
+      "quizId": 1,
+      "questionText": "Mount Everest is located in which mountain range?"
+    },
+    {
+      "id": 104,
+      "quizId": 1,
+      "questionText": "What is the longest river in the world?"
+    },
+    {
+      "id": 105,
+      "quizId": 1,
+      "questionText": "Which ocean is the largest?"
+    },
+    {
+      "id": 106,
+      "quizId": 1,
+      "questionText": "Which country has the largest population?"
+    },
+    {
+      "id": 107,
+      "quizId": 1,
+      "questionText": "What is the smallest country in the world?"
+    },
+    {
+      "id": 108,
+      "quizId": 1,
+      "questionText": "Which country is known as the Land of the Rising Sun?"
+    },
+    {
+      "id": 109,
+      "quizId": 1,
+      "questionText": "What is the largest desert in the world?"
+    },
+    {
+      "id": 110,
+      "quizId": 1,
+      "questionText": "Which U.S. state is the Grand Canyon located in?"
+    },
+    {
+      "id": 201,
+      "quizId": 2,
+      "questionText": "Who was the first President of the United States?"
+    },
+    {
+      "id": 202,
+      "quizId": 2,
+      "questionText": "In which year did World War II end?"
+    },
+    {
+      "id": 203,
+      "quizId": 2,
+      "questionText": "Who discovered America in 1492?"
+    },
+    {
+      "id": 204,
+      "quizId": 2,
+      "questionText": "The Great Wall of China was primarily built to protect against which group?"
+    },
+    {
+      "id": 205,
+      "quizId": 2,
+      "questionText": "Who was the first woman to fly solo across the Atlantic Ocean?"
+    },
+    {
+      "id": 206,
+      "quizId": 2,
+      "questionText": "What ancient civilization built the pyramids?"
+    },
+    {
+      "id": 207,
+      "quizId": 2,
+      "questionText": "Who wrote the Declaration of Independence?"
+    },
+    {
+      "id": 208,
+      "quizId": 2,
+      "questionText": "In which year did the Titanic sink?"
+    },
+    {
+      "id": 209,
+      "quizId": 2,
+      "questionText": "What was the name of the ship that brought the Pilgrims to America in 1620?"
+    },
+    {
+      "id": 210,
+      "quizId": 2,
+      "questionText": "Who was the first man to step on the moon?"
+    },
+    {
+      "id": 301,
+      "quizId": 3,
+      "questionText": "What is the speed of light in a vacuum?"
+    },
+    {
+      "id": 302,
+      "quizId": 3,
+      "questionText": "Who formulated the theory of general relativity?"
+    },
+    {
+      "id": 303,
+      "quizId": 3,
+      "questionText": "What is the unit of force in the International System of Units?"
+    },
+    {
+      "id": 304,
+      "quizId": 3,
+      "questionText": "Which law states that for every action, there is an equal and opposite reaction?"
+    },
+    {
+      "id": 305,
+      "quizId": 3,
+      "questionText": "What is the name of the particle that carries a positive charge in an atom?"
+    },
+    {
+      "id": 306,
+      "quizId": 3,
+      "questionText": "What is the atomic number of carbon?"
+    },
+    {
+      "id": 307,
+      "quizId": 3,
+      "questionText": "Who is known as the father of quantum mechanics?"
+    },
+    {
+      "id": 308,
+      "quizId": 3,
+      "questionText": "What is the primary force that keeps planets in orbit around the sun?"
+    },
+    {
+      "id": 310,
+      "quizId": 3,
+      "questionText": "What phenomenon explains the bending of light as it passes through different mediums?"
+    },
+    {
+      "id": 401,
+      "quizId": 4,
+      "questionText": "In which sport is the term 'love' used?"
+    },
+    {
+      "id": 402,
+      "quizId": 4,
+      "questionText": "How many players are there in a soccer team?"
+    },
+    {
+      "id": 403,
+      "quizId": 4,
+      "questionText": "Which country won the FIFA World Cup in 2018?"
+    },
+    {
+      "id": 404,
+      "quizId": 4,
+      "questionText": "What is the highest score in a single frame of bowling?"
+    },
+    {
+      "id": 405,
+      "quizId": 4,
+      "questionText": "Which sport uses a net, a racket, and a shuttlecock?"
+    },
+    {
+      "id": 406,
+      "quizId": 4,
+      "questionText": "How long is an Olympic swimming pool?"
+    },
+    {
+      "id": 407,
+      "quizId": 4,
+      "questionText": "Who holds the record for the most home runs in a single MLB season?"
+    },
+    {
+      "id": 408,
+      "quizId": 4,
+      "questionText": "In which sport is the Stanley Cup awarded?"
+    },
+    {
+      "id": 409,
+      "quizId": 4,
+      "questionText": "Which country hosts the Wimbledon tennis tournament?"
+    },
+    {
+      "id": 410,
+      "quizId": 4,
+      "questionText": "What is the highest possible break in snooker?"
+    },
+    {
+      "questionText": "bla",
+      "id": 17184311521429274,
+      "quizId": 4
+    },
+    {
+      "questionText": "ford",
+      "id": 17184315945214794,
+      "quizId": 4
+    },
+    {
+      "questionText": "dsadasda",
+      "id": 17184325016689548,
+      "quizId": 4
+    }
+  ],
+  "options": [
+    {
+      "id": 1001,
+      "questionId": 101,
+      "optionText": [
+        "Berlin",
+        "Madrid",
+        "Paris",
+        "Rome"
+      ],
+      "correctAnswer": "Paris"
+    },
+    {
+      "id": 1002,
+      "questionId": 102,
+      "optionText": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "South America"
+      ],
+      "correctAnswer": "South America"
+    },
+    {
+      "id": 1003,
+      "questionId": 103,
+      "optionText": [
+        "Rockies",
+        "Andes",
+        "Himalayas",
+        "Alps"
+      ],
+      "correctAnswer": "Himalayas"
+    },
+    {
+      "id": 1004,
+      "questionId": 104,
+      "optionText": [
+        "Amazon",
+        "Nile",
+        "Yangtze",
+        "Mississippi"
+      ],
+      "correctAnswer": "Nile"
+    },
+    {
+      "id": 1005,
+      "questionId": 105,
+      "optionText": [
+        "Atlantic",
+        "Indian",
+        "Arctic",
+        "Pacific"
+      ],
+      "correctAnswer": "Pacific"
+    },
+    {
+      "id": 1006,
+      "questionId": 106,
+      "optionText": [
+        "USA",
+        "India",
+        "China",
+        "Russia"
+      ],
+      "correctAnswer": "China"
+    },
+    {
+      "id": 1007,
+      "questionId": 107,
+      "optionText": [
+        "Monaco",
+        "Vatican City",
+        "San Marino",
+        "Liechtenstein"
+      ],
+      "correctAnswer": "Vatican City"
+    },
+    {
+      "id": 1008,
+      "questionId": 108,
+      "optionText": [
+        "China",
+        "South Korea",
+        "Japan",
+        "Vietnam"
+      ],
+      "correctAnswer": "Japan"
+    },
+    {
+      "id": 1009,
+      "questionId": 109,
+      "optionText": [
+        "Sahara",
+        "Gobi",
+        "Kalahari",
+        "Great Victoria"
+      ],
+      "correctAnswer": "Sahara"
+    },
+    {
+      "id": 1010,
+      "questionId": 110,
+      "optionText": [
+        "California",
+        "Nevada",
+        "Arizona",
+        "Utah"
+      ],
+      "correctAnswer": "Arizona"
+    },
+    {
+      "id": 1011,
+      "questionId": 201,
+      "optionText": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "correctAnswer": "George Washington"
+    },
+    {
+      "id": 1012,
+      "questionId": 202,
+      "optionText": [
+        "1945",
+        "1939",
+        "1942",
+        "1941"
+      ],
+      "correctAnswer": "1945"
+    },
+    {
+      "id": 1013,
+      "questionId": 203,
+      "optionText": [
+        "Christopher Columbus",
+        "Marco Polo",
+        "Ferdinand Magellan",
+        "Leif Erikson"
+      ],
+      "correctAnswer": "Christopher Columbus"
+    },
+    {
+      "id": 1014,
+      "questionId": 204,
+      "optionText": [
+        "Japanese",
+        "Mongols",
+        "Russians",
+        "Koreans"
+      ],
+      "correctAnswer": "Mongols"
+    },
+    {
+      "id": 1015,
+      "questionId": 205,
+      "optionText": [
+        "Amelia Earhart",
+        "Harriet Quimby",
+        "Bessie Coleman",
+        "Jacqueline Cochran"
+      ],
+      "correctAnswer": "Amelia Earhart"
+    },
+    {
+      "id": 1016,
+      "questionId": 206,
+      "optionText": [
+        "Romans",
+        "Greeks",
+        "Egyptians",
+        "Mayans"
+      ],
+      "correctAnswer": "Egyptians"
+    },
+    {
+      "id": 1017,
+      "questionId": 207,
+      "optionText": [
+        "George Washington",
+        "Benjamin Franklin",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "correctAnswer": "Thomas Jefferson"
+    },
+    {
+      "id": 1018,
+      "questionId": 208,
+      "optionText": [
+        "1912",
+        "1905",
+        "1920",
+        "1898"
+      ],
+      "correctAnswer": "1912"
+    },
+    {
+      "id": 1019,
+      "questionId": 209,
+      "optionText": [
+        "Santa Maria",
+        "Mayflower",
+        "Beagle",
+        "Endeavour"
+      ],
+      "correctAnswer": "Mayflower"
+    },
+    {
+      "id": 1020,
+      "questionId": 210,
+      "optionText": [
+        "Buzz Aldrin",
+        "Michael Collins",
+        "Yuri Gagarin",
+        "Neil Armstrong"
+      ],
+      "correctAnswer": "Neil Armstrong"
+    },
+    {
+      "id": 1021,
+      "questionId": 301,
+      "optionText": [
+        "300,000 km/s",
+        "150,000 km/s",
+        "450,000 km/s",
+        "600,000 km/s"
+      ],
+      "correctAnswer": "300,000 km/s"
+    },
+    {
+      "id": 1022,
+      "questionId": 302,
+      "optionText": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Galileo Galilei",
+        "Niels Bohr"
+      ],
+      "correctAnswer": "Albert Einstein"
+    },
+    {
+      "id": 1023,
+      "questionId": 303,
+      "optionText": [
+        "Newton",
+        "Joule",
+        "Pascal",
+        "Watt"
+      ],
+      "correctAnswer": "Newton"
+    },
+    {
+      "id": 1024,
+      "questionId": 304,
+      "optionText": [
+        "Newton's First Law",
+        "Newton's Second Law",
+        "Newton's Third Law",
+        "Law of Universal Gravitation"
+      ],
+      "correctAnswer": "Newton's Third Law"
+    },
+    {
+      "id": 1025,
+      "questionId": 305,
+      "optionText": [
+        "Neutron",
+        "Electron",
+        "Proton",
+        "Photon"
+      ],
+      "correctAnswer": "Proton"
+    },
+    {
+      "id": 1026,
+      "questionId": 306,
+      "optionText": [
+        "6",
+        "8",
+        "12",
+        "14"
+      ],
+      "correctAnswer": "6"
+    },
+    {
+      "id": 1027,
+      "questionId": 307,
+      "optionText": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Niels Bohr",
+        "Max Planck"
+      ],
+      "correctAnswer": "Max Planck"
+    },
+    {
+      "id": 1028,
+      "questionId": 308,
+      "optionText": [
+        "Magnetism",
+        "Electromagnetic Force",
+        "Gravity",
+        "Nuclear Force"
+      ],
+      "correctAnswer": "Gravity"
+    },
+    {
+      "id": 1030,
+      "questionId": 310,
+      "optionText": [
+        "Diffraction",
+        "Reflection",
+        "Refraction",
+        "Dispersion"
+      ],
+      "correctAnswer": "Refraction"
+    },
+    {
+      "id": 1031,
+      "questionId": 401,
+      "optionText": [
+        "Basketball",
+        "Tennis",
+        "Soccer",
+        "Cricket"
+      ],
+      "correctAnswer": "Tennis"
+    },
+    {
+      "id": 1032,
+      "questionId": 402,
+      "optionText": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctAnswer": "11"
+    },
+    {
+      "id": 1033,
+      "questionId": 403,
+      "optionText": [
+        "Brazil",
+        "Germany",
+        "France",
+        "Spain"
+      ],
+      "correctAnswer": "France"
+    },
+    {
+      "id": 1034,
+      "questionId": 404,
+      "optionText": [
+        "200",
+        "250",
+        "300",
+        "350"
+      ],
+      "correctAnswer": "300"
+    },
+    {
+      "id": 1035,
+      "questionId": 405,
+      "optionText": [
+        "Badminton",
+        "Tennis",
+        "Squash",
+        "Table Tennis"
+      ],
+      "correctAnswer": "Badminton"
+    },
+    {
+      "id": 1036,
+      "questionId": 406,
+      "optionText": [
+        "25 meters",
+        "50 meters",
+        "100 meters",
+        "200 meters"
+      ],
+      "correctAnswer": "50 meters"
+    },
+    {
+      "id": 1037,
+      "questionId": 407,
+      "optionText": [
+        "Babe Ruth",
+        "Barry Bonds",
+        "Hank Aaron",
+        "Alex Rodriguez"
+      ],
+      "correctAnswer": "Barry Bonds"
+    },
+    {
+      "id": 1038,
+      "questionId": 408,
+      "optionText": [
+        "Basketball",
+        "Hockey",
+        "Football",
+        "Baseball"
+      ],
+      "correctAnswer": "Hockey"
+    },
+    {
+      "id": 1039,
+      "questionId": 409,
+      "optionText": [
+        "Australia",
+        "France",
+        "USA",
+        "UK"
+      ],
+      "correctAnswer": "UK"
+    },
+    {
+      "id": 1040,
+      "questionId": 410,
+      "optionText": [
+        "147",
+        "155",
+        "167",
+        "177"
+      ],
+      "correctAnswer": "147"
+    },
+    {
+      "id": 17184311521436972,
+      "questionId": 17184311521429274,
+      "optionText": [
+        "zad",
+        "zod",
+        "zud",
+        "zid"
+      ],
+      "correctAnswer": "zid"
+    },
+    {
+      "id": 17184315945238220,
+      "questionId": 17184315945214794,
+      "optionText": [
+        "nissan",
+        "cameo",
+        "yungul",
+        "he"
+      ],
+      "correctAnswer": "yungul"
+    },
+    {
+      "id": 17184325016705706,
+      "questionId": 17184325016689548,
+      "optionText": [
+        "sdasdas",
+        "asd",
+        "gdf",
+        "htrhr"
+      ],
+      "correctAnswer": "htrhr"
+    }
+  ]
+}

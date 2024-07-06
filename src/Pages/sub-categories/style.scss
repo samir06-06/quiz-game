@@ -1,0 +1,31 @@
+@import "../../Style/variable.scss";
+#sub-category {
+  form {
+    margin: 20px 0;
+    input {
+      border-radius: 15px;
+      border: 3px solid $primary-color;
+    }
+  }
+  min-height: 800px;
+}
+
+.questions-list {
+  // width: 620px;
+  display: flex;
+  flex-direction: column;
+}
+
+.delete-edit {
+  flex-wrap: nowrap;
+  margin: 20px 0;
+  gap: 10px;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
+
+.db-question {
+  display: flex;
+  // justify-content: space-between;
+}

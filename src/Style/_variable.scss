@@ -1,0 +1,88 @@
+$primary-color: #dc5f00; // Primary color
+$secondary-color: #373a40; // Secondary color
+$third-color: #686d76; // Secondary color
+$back-ground-color: #eeeeee; // Secondary color
+$text-color: #2c3e50; // Text color
+
+$font-size-base: 16px; // Base font size
+$font-size-large: 1.25rem; // Large font size
+
+.btn {
+  line-height: 12px;
+
+  cursor: pointer;
+  border-radius: 15px;
+  background-color: $secondary-color;
+  border: 3px solid black;
+  &:disabled {
+    border: 3px solid $secondary-color;
+    background-color: $third-color;
+    cursor: not-allowed;
+  }
+  &:hover {
+    background-color: $third-color;
+    color: black;
+  }
+  color: white;
+}
+
+.main-header {
+  color: white;
+  width: 100vw;
+  overflow: auto;
+  z-index: 1;
+  text-align: center;
+  padding: 50px;
+  background-color: $secondary-color;
+  margin-bottom: 30px;
+}
+
+.addition {
+  padding: 10px 20px;
+}
+
+.main-btn {
+  color: $primary-color;
+  margin: 20px 0;
+}
+
+nav {
+  background-color: $secondary-color;
+  width: 100%;
+  color: white;
+  ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    li {
+      background: $primary-color;
+      border: 3px solid black;
+      border-radius: 15px;
+      &:hover {
+        background-color: $third-color;
+        cursor: pointer;
+      }
+
+      a:link,
+      a:visited {
+        color: white; /* or any color you prefer */
+        text-decoration: none; /* remove underline, optional */
+      }
+
+      /* Optionally, you can style the hover and active states */
+      a:hover {
+        color: white; /* color when hovered */
+        /* underline when hovered */
+      }
+
+      a:active {
+        color: white; /* color when active/clicked */
+      }
+    }
+  }
+}
+.edit-question-details {
+  min-height: 800px;
+  background-color: $back-ground-color;
+}

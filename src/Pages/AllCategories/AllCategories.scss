@@ -1,0 +1,14 @@
+#all-categories {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 800px;
+}
+
+.categories {
+  gap: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+}

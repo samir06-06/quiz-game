@@ -1,0 +1,15 @@
+@import "../../Style/variable.scss";
+#addition {
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+  ul {
+    list-style: none;
+  }
+}
+
+.add-input {
+  margin: 10px;
+  border-radius: 15px;
+  border: 3px solid $primary-color;
+}
